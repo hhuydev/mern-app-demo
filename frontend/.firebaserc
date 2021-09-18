@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "mern-react-frontend",
+    "mern-reactjs-frontend": "mern-reactjs-frontend-1dde4"
+  }
+}
